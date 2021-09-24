@@ -32,8 +32,8 @@ async def start(client, message):
                 InlineKeyboardButton("❔ HOW TO USE ME ❔", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("📢 CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("SOURCE 📦", url=f"https://github.com/AsmSafone/VideoPlayerBot"),
+                InlineKeyboardButton("📢 CHANNEL", url=f"https://t.me/AbhayRajz"),
+                InlineKeyboardButton("SOURCE 📦", url=f"https://Xnxx.com"),
             ],
             [
                 InlineKeyboardButton("🤖 ABOUT", callback_data="about"),
@@ -58,7 +58,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [
             [
                 InlineKeyboardButton("🔙 BACK", callback_data="start"),
-                InlineKeyboardButton ("SUPPORT 💬", url=f"https://t.me/{SUPPORT_GROUP}"),
+                InlineKeyboardButton ("SUPPORT 💬", url=f"https://t.me/JabraSRKians"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -92,8 +92,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("❔ HOW TO USE ME ❔", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("📢 CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("SOURCE 📦", url=f"https://github.com/AsmSafone/VideoPlayerBot"),
+                InlineKeyboardButton("📢 CHANNEL", url=f"https://t.me/AbhayRajz"),
+                InlineKeyboardButton("SOURCE 📦", url=f"https://xnxx.com"),
             ],
             [
                 InlineKeyboardButton("🤖 ABOUT", callback_data="about"),
