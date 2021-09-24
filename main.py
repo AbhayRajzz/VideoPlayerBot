@@ -33,7 +33,7 @@ if not os.path.isdir("./downloads"):
 
 Bot.start()
 User.start()
-print("\n[INFO] - STARTED VIDEO PLAYER BOT, JOIN @ASMSAFONE !")
+print("\n[INFO] - STARTED VIDEO PLAYER BOT !")
 
 idle()
 Bot.stop()
